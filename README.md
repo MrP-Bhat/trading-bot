@@ -54,12 +54,6 @@ Then open:
 http://127.0.0.1:8010
 ```
 
-If that port is already in use:
-
-```cmd
-python ui.py --port 8011
-```
-
 Interactive mode:
 
 ```cmd
